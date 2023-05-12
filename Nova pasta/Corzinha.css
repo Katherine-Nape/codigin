@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+h1 {
+    color: rgb(0, 0, 0);
+    padding: 60px;
+    font-family: Helvetica;
+    text-align : center;
+}
+
+.Logo{ 
+    width: 10%;
+    height:auto;
+}
